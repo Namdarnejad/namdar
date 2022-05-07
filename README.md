@@ -1,6 +1,6 @@
 ## Hey there, I'm Namdar 
 
-### <img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/949117835745177600/ye610j9M_400x400.jpg" /> I'm a third year Software Engineering Student at McGill University
+### <img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/949117835745177600/ye610j9M_400x400.jpg" /> I'm a Rising Senior Software Engineering Student @ McGill University
 <!-- ### Currently Interning in the Equity Data Science Team @ PanAgora Asset Management -->
 
 ### Connect with me:
