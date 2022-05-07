@@ -1,7 +1,7 @@
 ## Hi there, I'm Namdar 👋 
 
 ### <img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/949117835745177600/ye610j9M_400x400.jpg" /> I'm a third year Software Engineering Student at McGill University
-<br /> <br /> Data Science Intern @ PanAgora Asset Management
+### Currently Interning in the Equity Data Science Team @ PanAgora Asset Management
 
 ### Connect with me:
 
