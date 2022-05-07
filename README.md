@@ -9,7 +9,7 @@
 [<img align="left" alt="Namdar | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 <br />
-
+<!-- 
 ### Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/c/c.svg"/>
@@ -38,6 +38,6 @@
 
 ---
 ## To Be Completed ...
-
+ -->
 [linkedin]: https://www.linkedin.com/in/namdar-nejad-1bb28819b/
 [email]: mailto:namdarnejad@gmail.com
