@@ -1,6 +1,26 @@
 ## Hey there, I'm Namdar 
 
-### <img align="left" alt="Visual Studio Code" width="26px" src="https://pbs.twimg.com/profile_images/949117835745177600/ye610j9M_400x400.jpg" /> I'm a Rising Senior Software Engineering Student @ McGill University
+[<img align="left" alt="Namdar | McGill" width="24px" src="https://pbs.twimg.com/profile_images/949117835745177600/ye610j9M_400x400.jpg" />][mcgill]
+
+[mcgill]: https://www.mcgill.ca 
+
+#### I'm a Rising Senior Software Engineering Student @ McGill University
+
+
+[<img align="left" alt="Namdar | Moss" width="24px" src="https://pbs.twimg.com/profile_images/1546550121151664128/7yzb7Cfl_400x400.jpg" />][moss]
+
+[moss]: https://moss.social/
+
+#### I'm also leading the data projects @ [moss](https://www.moss.social)
+
+
+[<img align="left" alt="Namdar | Panagora" width="24px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHiLaY4AZEBQw/company-logo_200_200/0/1625160299360?e=1666224000&v=beta&t=C8ji3hQXE3C6P8kg0EzHqkkLVd5oOo-IpXE317CSnuw" />][panagora]
+
+[panagora]: https://www.panagora.com/
+
+#### Over the summer I'm interning in the Equity Data Science Team @ PanAgora Asset Management
+
+
 <!-- ### Currently Interning in the Equity Data Science Team @ PanAgora Asset Management -->
 
 ### Connect with me:
