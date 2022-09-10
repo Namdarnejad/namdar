@@ -1,6 +1,8 @@
-# Courses I have taken at McGill University
-|CS Courses||
-|--|--|--|
+# Courses I've taken at McGill University
+
+## CS Courses
+|||
+|--|--|
 COMP 598 | Intro to Data Science
 COMP 551 | Applied Machine Learning
 COMP 550 | Natural Language Processing
@@ -20,16 +22,18 @@ COMP 400 | Research Project in Computer Science
 COMP 396 | Undergraduate Research Project
 COMP 361-D1/D2 | Capstone Design Project
 ---
-|ECE Courses||
-|--|--|--|
+## ECE Courses
+|||
+|--|--|
 ECSE 429 | Software Validation
 ECSE 437 | Software Delivery
 ECSE 420 | Parallel Computing
 ECSE 326 | Software Requirements Engineering
 ECSE 202 | Intro to Software Development
 ---
-|Math Courses||
-|--|--|--|
+## Math Courses
+|||
+|--|--|
 MATH 553 | Algorithmic Game Theory (Winter 2022)
 MATH 324 | Statistics (Winter 2022)
 MATH 323 | Probability
@@ -40,8 +44,9 @@ MATH 141 | Calculus 2
 MATH 140 | Calculus 1
 MATH 133 | Linear Algebra and Geometry
 ---
-|General Science & Electives||
-|--|--|--|
+## General Science & Electives
+|||
+|--|--|
 PHYS 142 | Electromagnetism & Optics
 PHYS 131 | Mechanics and Waves
 CHEM 183 | World of Chem: Drugs
