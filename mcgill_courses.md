@@ -1,5 +1,4 @@
 # Courses I have taken at McGill University
-
 |CS Courses||
 |--|--|--|
 COMP 598 | Intro to Data Science
