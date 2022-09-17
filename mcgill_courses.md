@@ -1,35 +1,35 @@
 # Courses I've taken at McGill University
 
 ## CS Courses
-|||
-|--|--|
-COMP 598 | Intro to Data Science
-COMP 551 | Applied Machine Learning
-COMP 550 | Natural Language Processing
-COMP 555 | Software Privacy (Winter 2022)
-COMP 535 | Computer Networks (Winter 2022)
-COMP 421 | Database Systems
-COMP 360 | Algorithm Design
-COMP 321 | Programming Challenges
-COMP 310 | Operating Systems
-COMP 303 | Software Design
+||||
+|--|--|--|
+COMP 598 | Intro to Data Science | [GitHub](https://github.com/namdar-nejad/COMP-598)
+COMP 551 | Applied Machine Learning | [GitHub](https://github.com/namdar-nejad/COMP-551)
+COMP 550 | Natural Language Processing | [GitHub](https://github.com/namdar-nejad/COMP-550)
+COMP 555 | Software Privacy | (Winter 2022)
+COMP 535 | Computer Networks | (Winter 2022)
+COMP 421 | Database Systems | [GitHub](https://github.com/namdar-nejad/COMP-421)
+COMP 360 | Algorithm Design | [GitHub](https://github.com/namdar-nejad/COMP-360)
+COMP 310 | Operating Systems | [GitHub](https://github.com/namdar-nejad/COMP-310)
+COMP 303 | Software Design | [GitHub](https://github.com/namdar-nejad/COMP-303)
 COMP 302 | Programming Lang & Paradigms
-COMP 273 | Intro to Computer Systems
-COMP 251 | Algorithms and Data Structures
-COMP 250 | Intro to Computer Science
-COMP 206 | Intro to Software Systems
-COMP 400 | Research Project in Computer Science
-COMP 396 | Undergraduate Research Project
+COMP 273 | Intro to Computer Systems | [GitHub](https://github.com/namdar-nejad/COMP-273)
+COMP 251 | Algorithms and Data Structures | [GitHub](https://github.com/namdar-nejad/COMP-251)
+COMP 250 | Intro to Computer Science | [GitHub](https://github.com/namdar-nejad/COMP-250)
+COMP 206 | Intro to Software Systems | [GitHub](https://github.com/namdar-nejad/COMP-206)
+COMP 400 | Research Project in Computer Science | [GitLab](https://gitlab.cs.mcgill.ca/discs-lab/pmem-rocksdb/-/tree/master)
+COMP 396 | Undergraduate Research Project | [Lab's GitHub](https://github.com/Shared-Reality-Lab)
 COMP 361-D1/D2 | Capstone Design Project
+COMP 321 | Programming Challenges
 ---
 ## ECE Courses
-|||
-|--|--|
-ECSE 429 | Software Validation
-ECSE 437 | Software Delivery
-ECSE 420 | Parallel Computing
-ECSE 326 | Software Requirements Engineering
-ECSE 202 | Intro to Software Development
+||||
+|--|--|--|
+ECSE 429 | Software Validation |
+ECSE 437 | Software Delivery | 
+ECSE 420 | Parallel Computing | [GitHub](https://github.com/namdar-nejad/ECSE-420)
+ECSE 326 | Software Requirements Engineering |
+ECSE 202 | Intro to Software Development | [GitHub](https://github.com/namdar-nejad/ECSE-202)
 ---
 ## Math Courses
 |||
