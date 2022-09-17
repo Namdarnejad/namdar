@@ -20,7 +20,7 @@ COMP 206 | Intro to Software Systems | [GitHub](https://github.com/namdar-nejad/
 COMP 400 | Research Project in Computer Science | [GitLab](https://gitlab.cs.mcgill.ca/discs-lab/pmem-rocksdb/-/tree/master)
 COMP 396 | Undergraduate Research Project | [Lab's GitHub](https://github.com/Shared-Reality-Lab)
 COMP 361-D1/D2 | Capstone Design Project | [GitHub](https://github.com/COMP361/f2022-hexanome-13)
-COMP 321 | Programming Challenges | [GitHub]()
+COMP 321 | Programming Challenges | [GitHub](https://github.com/namdar-nejad/COMP-321)
 ---
 ## ECE Courses
 ||||
