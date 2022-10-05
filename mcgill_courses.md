@@ -6,8 +6,8 @@
 COMP 598 | Intro to Data Science | [GitHub](https://github.com/namdar-nejad/COMP-598)
 COMP 551 | Applied Machine Learning | [GitHub](https://github.com/namdar-nejad/COMP-551)
 COMP 550 | Natural Language Processing | [GitHub](https://github.com/namdar-nejad/COMP-550)
-COMP 555 | Software Privacy | (Winter 2022)
-COMP 535 | Computer Networks | (Winter 2022)
+COMP 555 | Software Privacy | (Winter 2023)
+COMP 535 | Computer Networks | (Winter 2023)
 COMP 421 | Database Systems | [GitHub](https://github.com/namdar-nejad/COMP-421)
 COMP 360 | Algorithm Design | [GitHub](https://github.com/namdar-nejad/COMP-360)
 COMP 310 | Operating Systems | [GitHub](https://github.com/namdar-nejad/COMP-310)
@@ -34,8 +34,8 @@ ECSE 202 | Intro to Software Development | [GitHub](https://github.com/namdar-ne
 ## Math Courses
 |||
 |--|--|
-MATH 553 | Algorithmic Game Theory (Winter 2022)
-MATH 324 | Statistics (Winter 2022)
+MATH 553 | Algorithmic Game Theory (Winter 2023)
+MATH 324 | Statistics (Winter 2023)
 MATH 323 | Probability
 MATH 240 | Discrete Structures
 MATH 223 | Linear Algebra
