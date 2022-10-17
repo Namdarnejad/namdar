@@ -7,7 +7,7 @@
 #### I'm a Rising Senior Software Engineering Student @ McGill University
 
 
-[<img align="left" alt="Namdar | Moss" width="24px" src="https://pbs.twimg.com/profile_images/1546550121151664128/7yzb7Cfl_400x400.jpg" />][moss]
+[<img align="left" alt="Namdar | Moss" width="24px" src="https://pbs.twimg.com/profile_images/1580584497057341441/7t6FJPGs_400x400.jpg" />][moss]
 
 [moss]: https://moss.social/
 
