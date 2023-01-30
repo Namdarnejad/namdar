@@ -14,7 +14,7 @@
 #### I'm also leading the data projects @ [moss](https://www.moss.social)
 
 
-[<img align="left" alt="Namdar | Panagora" width="24px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHiLaY4AZEBQw/company-logo_200_200/0/1625160299360?e=1674691200&v=beta&t=1KcDUiRXoSJJxel8ahRMheJp3Jb3sgQk5ND_jMHPC0g" />][panagora]
+[<img align="left" alt="Namdar | Panagora" width="24px" src="https://media.licdn.com/dms/image/C4D0BAQHiLaY4AZEBQw/company-logo_200_200/0/1625160299360?e=1683158400&v=beta&t=Uys5f8T5xG360YgoZZJPzihOgfJCIiA3wcgsRUPJHz4" />][panagora]
 
 [panagora]: https://www.panagora.com/
 
