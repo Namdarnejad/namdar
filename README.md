@@ -19,7 +19,7 @@
 
 [panagora]: https://www.panagora.com/
 -->
-#### I'm currently on the Systematic Credit desk at Man Numeric
+#### I'm currently working as a Researcher on the Systematic Fixed Income team at Man Numeric
 
 
 <!-- ### Currently Interning in the Equity Data Science Team @ PanAgora Asset Management -->
